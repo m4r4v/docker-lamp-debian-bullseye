@@ -1,8 +1,9 @@
 # Docker-Lamp-Debian-Bullseye
 
 > author: m4r4v
-> docker hub: https://hub.docker.com/repository/docker/m4r4v/lamp-debian-bullseye
-> github: https://github.com/m4r4v
+
+- docker hub: https://hub.docker.com/repository/docker/m4r4v/lamp-debian-bullseye
+- github: https://github.com/m4r4v
 
 The following tutorial creates a LAMP ina docker container using Debian Bullseye as OS
 
